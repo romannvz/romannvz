@@ -14,7 +14,7 @@
 - 🧪 **Jest (unit)**, 🧩 **Cypress (e2e)**
 
 ### **Backend**:
-- 🖥️ **Node.js**, **Express**, **Python**, **PHP**, **C#**
+- 🖥️ **Node.js**, **NestJS** **Express**, **Python**, **PHP**, **C#**
 
 ### **Базы данных**:
 - 🗄️ **MySQL**, **MongoDB**, **T-SQL**, **MS SQL Server**, **PostgreSQL**, **Oracle PL/SQL**
