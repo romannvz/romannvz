@@ -8,13 +8,13 @@
 ### **Frontend**:
 - 🌐 **HTML5**, **CSS3**, **SASS**
 - ⚡ **JavaScript (ES6+)**, **TypeScript**
-- ⚛️ **React (16+)**, **React Native**, **Redux**, **Zustand**, **MobX**
+- ⚛️ **React (16+)**, **React Native**, **Angular**, **Redux**, **Zustand**, **MobX**
 - 🔄 **WebSocket**, 📡 **Axios**
 - 🛠️ **Webpack**, **Babel**, **Husky**, **Next.js**
 - 🧪 **Jest (unit)**, 🧩 **Cypress (e2e)**
 
 ### **Backend**:
-- 🖥️ **Node.js**, **NestJS** **Express**, **Python**, **PHP**, **C#**
+- 🖥️ **Node.js**, **NestJS**, **Express**, **Python**, **PHP**, **C#**, **TypeORM**
 
 ### **Базы данных**:
 - 🗄️ **MySQL**, **MongoDB**, **T-SQL**, **MS SQL Server**, **PostgreSQL**, **Oracle PL/SQL**
@@ -23,6 +23,7 @@
 ### **Инструменты и методологии**:
 - 🐳 **Docker**, 🐙 **Git**, 📋 **Jira**, 🎨 **Figma**, 🧳 **Postman**, 📝 **Notion**, 📅 **Trello**
 - 🏗️ **MVC**, **MVVM**, **MVP**, 🔌 **REST API**
+- **Linux**, **CI/CD**, **GitHub Actions/Issues/Kanban**, **Nginx**, **CORS**, **Proxy**, **SSL**, **HTTPS**, **Domain Sertificates**, **Deploy**
 
 ## 📚 Образование:
 
